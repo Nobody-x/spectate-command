@@ -1,0 +1,39 @@
+"Phrases"
+{
+	"Prefix"
+	{
+		"en"		"{#1369F2}[{#6F9FED}Simple Spec{#1369F2}]"
+		"fr"		"{#1369F2}[{#6F9FED}Simple Spec{#1369F2}]"
+	}
+
+	"ReplyCommand Wrong Client"
+	{
+		"en"		"You need to be a player."
+		"fr"		"Vous devez être un joueur."
+	}
+
+	"ReplyCommand Disabled"
+	{
+		"en"		"{#6F9FED}The plugin is disabled."
+		"fr"		"{#6F9FED}Le plugin est désactivé."
+	}
+
+	"ReplyCommand Goes Spec"
+	{
+		"en"		"{#6F9FED}You moved as a spectator."
+		"fr"		"{#6F9FED}Vous vous êtes déplacé en spectateur."
+	}
+
+	"ChatAll Goes Spec"
+	{
+		"#format"	"{1:s}"
+		"en"		"{#ffffff}{1} {#6F9FED}moved as a spectator."
+		"fr"		"{#ffffff}{1} {#6F9FED}s'est déplacé en spectateur."
+	}
+
+	"ReplyCommand Already Spec"
+	{
+		"en"		"{#6F9FED}You're already a spectator !"
+		"fr"		"{#6F9FED}Vous êtes déjà spectateur !"
+	}
+}
